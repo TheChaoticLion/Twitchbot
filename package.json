@@ -1,8 +1,8 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "discord-twitch-bot",
+  "description": "discord-twitch-bot",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "discord-twitch-bot.js",
   "scripts": {
     "start": "node discord-twitch-bot.js"
   },
