@@ -1,7 +1,7 @@
 {
   "name": "discord-twitch-bot",
   "description": "discord-twitch-bot",
-  "version": "0.0.0",
+  "version": "5.7.1",
   "main": "discord-twitch-bot.js",
   "scripts": {
     "start": "node discord-twitch-bot.js"
