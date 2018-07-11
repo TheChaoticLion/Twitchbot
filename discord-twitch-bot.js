@@ -14,6 +14,7 @@ const configuration = config.get( "configuration" )
 const botName = "Twitch Notifier Bot"
 const botAuthor = "DJ Arghlex#1729"
 const botVersion = "0.3.2"
+const token = process.env.BOT_TOKEN;
 
 // why the hell do i have to do this
 global.twitchConfig = {}
@@ -547,4 +548,4 @@ bot.once( 'ready', () => {
 	} );
 } );
 
-client.login(process.env.BOT_TOKEN);
+bot.login(token);
