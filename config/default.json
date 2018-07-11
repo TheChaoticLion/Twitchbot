@@ -1,0 +1,14 @@
+{ "configuration": {
+        "commandPrefix": ".",
+        "logfile": "./discord-twitch-bot.log",
+        "authToken": "BOT_TOKEN",
+        "adminUserId": "240969968492085249",
+        "channelId": "451886711384047636", 
+        "serverId": "not used, recommended to set to above channel's owning server",
+        "nickname": "klaxosaur princess",
+        "currentGame": "Darling in the franxx| .help", 
+        "twitch": {
+		"interval": 300,
+		"token": "z70setsmp7ekz0vg32286zbfqdxdre"
+	}
+} }
